@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+::-webkit-scrollbar {
+  background-color: #EAA855 !important;
+  width: 2px !important;
+  border-radius: 5px !important;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 229, 196, 0.5) !important;
+  border-radius: 5px !important;
+}
+
+.zvcr-breadcrumbs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* For error Page */
+.errorimage {
+  background-image: url("https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif");
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.contant-box {
+  text-align: center !important;
+}
+
+.h2 {
+  font-size: 2rem;
+}
+
+.mantine-p7k5pa {
+  opacity: 0.8;
+  transition: opacity 500ms ease-in
+}
+
+.mantine-o6cha0 {
+  opacity: 0.8;
+  transition: opacity 500ms ease-in
+}
+
+
+.chart_width {
+  height: 310px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+/* For sale add scroll height media query */
+@media screen and (max-width:2600px) and (min-width:1400px) {
+  .chart_width {
+    height: 620px;
+  }
+}
+
+@media screen and (max-width:4600px) and (min-width:2600px) {
+  .chart_width {
+    height: 820px;
+  }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');

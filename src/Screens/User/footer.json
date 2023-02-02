@@ -1,0 +1,49 @@
+[
+  {
+    "title": "MY ACCOUNT",
+    "links": [
+      {
+        "label": "Dashboardsss",
+        "link": "/"
+      },
+      {
+        "label": "Dashboard",
+        "link": "/"
+      },
+      {
+        "label": "Dashboard",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "title": "LEGAL INFORMATION",
+    "links": [
+      {
+        "label": "Dashboard",
+        "link": "/"
+      },
+      {
+        "label": "Dashboard",
+        "link": "/"
+      },
+      {
+        "label": "Dashboard",
+        "link": "/"
+      }
+    ]
+  },
+  {
+    "title": "CONTACT INFORMATION",
+    "links": [
+      {
+        "label": "Dashboard",
+        "link": "/"
+      },
+      {
+        "label": "Dashboard",
+        "link": "/"
+      }
+    ]
+  }
+]
